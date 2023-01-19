@@ -11,9 +11,9 @@ import org.apache.poi.ss.usermodel.Row;
 
 public class EmparelharPlanilha {
 
-    public static final String FILA_PATH = "/home/roberto/Documentos/Relacao_Produtos_Site.xls";
-    public static final int NUMERO_LINHAS_COLUNA_A = 3889;
-    public static final int NUMERO_LINHAS_COLUNA_B = 3885;
+    public static final String FILA_PATH = "/home/roberto/Documentos/Relacao_Produtos_Site2.xls";
+    public static final int NUMERO_LINHAS_COLUNA_A = 3994;
+    public static final int NUMERO_LINHAS_COLUNA_B = 2124;
     
     public static void main(String[] args) throws IOException {
 
